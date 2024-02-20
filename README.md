@@ -1,15 +1,19 @@
- Hi there 👋
+** Hi there👋 **
+# 💫 About Me:
+I'm Aradhya Yadav, a passionate developer.Currently, I'm sharpening my skills in front-end technologies like HTML, CSS, Javascript as well as exploring design with Figma.And i'm also intrested in field of machine learning and artificial intelligence.
 
- I am Aradhya Yadav, a fronted developer currently exploring the backend technologies. I am intrested in field of machine learning and artificial intelligence.
 
+# 🌱Skills
+- HTMl, CSS, Javascript
+- Bootstrap
+- MySQL
+- Java, C language
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aradhya-005&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aradhya-005&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aradhya-005&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  🌱 Skills
--      Front-End: HTML, CSS, Javascript, Bootstrap
--      Backend: learning ropes with Python and Node.js
--      Design: learning UI/UX with Figma, Canva
- 
- ✨  Always open to:
--      New challenges and learning opportunities
--      Collaboration on interesting projects
--      Connecting with other like-minded developers
+---
+[![](https://visitcount.itsvg.in/api?id=Aradhya-005&icon=0&color=0)](https://visitcount.itsvg.in)
+

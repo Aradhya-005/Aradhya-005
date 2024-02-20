@@ -1,7 +1,7 @@
 
 # Hi there, I'm Aradhya Yadav 👋
 A passionate developer
-<br>Currently, I'm sharpening my skills in front-end technologies like HTML, CSS, Javascript as well as exploring design with Figma. And i'm also intrested in field of machine learning and artificial intelligence.<br>
+<br>Currently, I'm sharpening my skills in front-end technologies like HTML, CSS, Javascript as well as exploring design with Figma. And i'm also interested in field of machine learning and artificial intelligence.<br>
 
 
 # 🌱Skills

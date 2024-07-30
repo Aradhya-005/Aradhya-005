@@ -5,7 +5,7 @@ A passionate developer
 
 
 # 🌱Skills
-- HTMl, CSS, Javascript, React.js, Next.js
+- HTML, CSS, Javascript, React.js, Next.js
 - Bootstrap
 - MySQL
 - Python, C language

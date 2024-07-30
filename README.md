@@ -1,11 +1,11 @@
 
 # Hi there, I'm Aradhya Yadav 👋
 A passionate developer
-<br>Currently, I'm sharpening my skills in front-end technologies like HTML, CSS, Javascrip, React.js, Next.js as well as exploring design with Figma. And i'm also interested in field of machine learning and artificial intelligence.<br>
+<br>Currently, I'm sharpening my skills in front-end technologies like HTML, CSS, Javascript, React.js, Next.js as well as exploring design with Figma. And i'm also interested in field of machine learning and artificial intelligence.<br>
 
 
 # 🌱Skills
-- HTMl, CSS, Javascript, React.j, Next.js
+- HTMl, CSS, Javascript, React.js, Next.js
 - Bootstrap
 - MySQL
 - Python, C language

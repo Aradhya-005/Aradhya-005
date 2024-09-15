@@ -1,20 +1,26 @@
+<h1 align="left">Hello, I'm Aradhya 👋</h1>
 
-# Hi there, I'm Aradhya Yadav 👋
-A passionate developer
-<br>Currently, I'm sharpening my skills in front-end technologies like HTML, CSS, Javascript, React.js, Next.js as well as exploring design with Figma. And i'm also interested in field of machine learning and artificial intelligence.<br>
+<h3>⚡ Languages and Frameworks</h3>
+
+| <small>**Programming Languages**</small>    | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo" /> <img width="10" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo" /> <img width="8" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo" />  |
+|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <small>**Frontend**</small>               | <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo" /> <img width="8" /> <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo" />                        |
+| <small>**Styling**</small>                | <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo" /> <img width="8" /> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="25" alt="tailwindcss logo" /> <img width="8" /> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo" /> |
+| <small>**Backend**</small>                | <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="25" alt="firebase logo" />                                                                                                                                                                             |
+| <small>**Full Stack Libraries**</small>     | <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo" />      
 
 
-# 🌱Skills
-- HTML, CSS, Javascript, React.js, Next.js
-- Bootstrap
-- MySQL
-- Python, C language
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aradhya-005&show_icons=true&locale=en&layout=compact" alt="aradhya-005" /></p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aradhya-005&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aradhya-005&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aradhya-005&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aradhya-005&show_icons=true&locale=en" alt="aradhya-005" /></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Aradhya-005&icon=0&color=0)](https://visitcount.itsvg.in)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aradhya-005&" alt="aradhya-005" /></p>
+<h3 align="left">let's connect</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/aradhya-yadav" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn profile" height="30" width="120" />
+  </a>
+</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=aradhya-005&label=Profile%20views&color=0e75b6&style=flat" alt="aradhya-005" /> </p>
+
 

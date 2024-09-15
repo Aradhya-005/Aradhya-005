@@ -21,6 +21,8 @@
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn profile" height="30" width="120" />
   </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/Aradhya-005/Aradhya-005/output/snake.svg" alt="Snake animation" />
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aradhya-005&label=Profile%20views&color=0e75b6&style=flat" alt="aradhya-005" /> </p>
 
-
+###

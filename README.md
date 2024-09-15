@@ -13,7 +13,7 @@
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aradhya-005&show_icons=true&locale=en" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aradhya-005&show_icons=true&locale=en&layout=compact" width="37%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aradhya-005&show_icons=true&locale=en&layout=compact" width="36.5%" />
 </p>
 
 

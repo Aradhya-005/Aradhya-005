@@ -10,11 +10,17 @@
 | <small>**Full Stack Libraries**</small>     | <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo" />      
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aradhya-005&show_icons=true&locale=en&layout=compact" alt="aradhya-005" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aradhya-005&show_icons=true&locale=en" alt="aradhya-005" /></p>
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aradhya-005&show_icons=true&locale=en" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aradhya-005&show_icons=true&locale=en&layout=compact" width="37%" />
+</p>
+
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aradhya-005&" alt="aradhya-005" /></p>
+
 <h3 align="left">let's connect</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/aradhya-yadav-b4b287242/" target="_blank">

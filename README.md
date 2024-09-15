@@ -17,7 +17,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aradhya-005&" alt="aradhya-005" /></p>
 <h3 align="left">let's connect</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/aradhya-yadav" target="_blank">
+  <a href="https://www.linkedin.com/in/aradhya-yadav-b4b287242/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn profile" height="30" width="120" />
   </a>
 </p>

@@ -36,6 +36,7 @@ Here, you'll find projects demonstrating my expertise.
 
 
 #
+<br>
 <h3>⚡ Languages and Frameworks</h3>
 
 <div style="display: flex; margin-left:30px; flex-wrap: wrap; gap: 10px; align-items: center;">
@@ -53,7 +54,7 @@ Here, you'll find projects demonstrating my expertise.
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo" />
 </div>
 <br>
-<br>
+
 <h3 style="margin-top: 20px;">⚡Github Stats</h3> <!-- Adjust margin here -->
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Aradhya-005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />

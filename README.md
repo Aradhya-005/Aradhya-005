@@ -26,7 +26,7 @@
 
 <br>
 
-Welcome to my GitHub profile! I’m a passionate developer focused on creating impactful projects and contributing to the open-source community.
+Welcome to my GitHub profile! I’m a frontend developer focused on creating impactful projects and contributing to the open-source community.
 </br>
 Here, you'll find projects demonstrating my expertise.
 

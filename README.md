@@ -6,7 +6,7 @@
 </small>
   <!-- Icons for LinkedIn, Portfolio, and Contact Me -->
 <div style="text-align: center;">
-  <a>
+ 
   <a href="https://www.linkedin.com/in/aradhya-yadav-b4b287242/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn profile" height="30" style="margin-right: 15px;" />
   </a>

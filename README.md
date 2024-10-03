@@ -2,8 +2,7 @@
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=455&lines=Hi%F0%9F%91%8B!+I'm+Aradhya+Yadav!)
 
-<small>  <h3 >A passionate frontend developer undergraduate at the University of Lucknow.</h3>
-</small>
+  <h3 >A passionate frontend developer undergraduate at the University of Lucknow.</h3>
   <!-- Icons for LinkedIn, Portfolio, and Contact Me -->
 <div style="text-align: center;">
  

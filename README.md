@@ -21,7 +21,7 @@
 </div>
 
 </div>
-<br>
+
 <hr style="border: 1px solid #1E90FF; width: 50%; margin: 10px auto;" />
 
 <br>

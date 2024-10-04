@@ -56,7 +56,7 @@ Here, you'll find projects demonstrating my expertise.
 
 <h3 style="margin-top: 20px;">⚡Github Stats</h3> <!-- Adjust margin here -->
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aradhya-005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aradhya-005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&token=YOUR_GITHUB_TOKEN" style="width: 48%;" />
 </p>
 
 <p>

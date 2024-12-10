@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn profile" height="30" style="margin-right: 15px;" />
   </a>
  <img width="10" />
-  <a href="https://aradhyayadav.vercel.app/" target="_blank">
+  <a href="https://portfolio-aradhyas-projects-75698cbd.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6C3385?style=for-the-badge" height="30" style="margin-right: 15px;" alt="Portfolio Badge" />
   </a>
 <img width="10" />
